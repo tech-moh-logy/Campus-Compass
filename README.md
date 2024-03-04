@@ -40,6 +40,22 @@ To run Campus Compass locally:
 6. Start the frontend application using `npm start` in the client directory.
 7. Access the application in your web browser at `http://localhost:3000`.
 
+## Version Control with Git and GitHub
+
+Throughout the development process, version control is maintained using Git, a distributed version control system, and GitHub, a web-based Git repository hosting service. The following steps outline how Git commands are used to commit changes and manage project versions:
+
+1. **Initializing a Git Repository**: The project directory is initialized as a Git repository using the `git init` command.
+
+2. **Adding Files to the Staging Area**: Changes to project files are staged for commit using the `git add <file>` command. This adds modified, new, or deleted files to the staging area in preparation for the next commit.
+
+3. **Committing Changes**: Staged changes are committed to the local repository using the `git commit -m "<commit message>"` command. A descriptive commit message is provided to document the changes made in the commit.
+
+4. **Pushing Changes to GitHub**: To synchronize changes with a remote GitHub repository, the `git push` command is used. This uploads committed changes from the local repository to the corresponding branch on GitHub.
+
+5. **Branching and Merging**: Git branching is utilized to work on features or bug fixes in isolation from the main codebase. Branches are created using the `git branch <branchname>` command, and changes from one branch are merged into another using the `git merge <branchname>` command.
+
+6. **Pull Requests**: Collaborative development is facilitated through pull requests on GitHub. Developers create a pull request to propose changes from their forked repository to the original repository. Code reviews, discussions, and feedback can then be provided before merging the changes into the main codebase.7
+
 ## Contributors
 
 This project was developed by MOHAMMED. 
