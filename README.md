@@ -4,9 +4,21 @@
     The <b>Full-Stack CRUD Application</b> is scheduled to be uploaded by March 14th, 2024, marking the culmination of our diligent efforts and commitment to delivering a robust and efficient solution.
 </div>
 
+<br>
+
 ![Campus Compass](https://github.com/tech-moh-logy/Campus-Compass/assets/132733865/4b831400-400e-4fc0-a383-20ee16faf47d)
 
-Campus Compass is a full-stack web application developed using the PERN (PostgreSQL, Express, React, Node.js) technology stack. It serves as a comprehensive Campus Management System, allowing users to manage campuses and students effectively.
+<div align="center">
+    <h6>
+        MOHAMMED
+    </h6>
+</div>
+
+<br>
+    
+<div align="center">
+    Campus Compass is a full-stack web application developed using the PERN (PostgreSQL, Express, React, Node.js) technology stack. It serves as a comprehensive Campus Management System, allowing users to manage campuses and students effectively.
+</div>
 
 ## Overview
 
