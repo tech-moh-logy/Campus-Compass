@@ -1,6 +1,8 @@
-# Campus Compass
+<h1 align="center">Campus Compass</h1>
 
-The Full-Stack CRUD Application is scheduled to be uploaded by March 14th, 2024, marking the culmination of our diligent efforts and commitment to delivering a robust and efficient solution.
+<div align="center">
+    The <b>Full-Stack CRUD Application</b> is scheduled to be uploaded by March 14th, 2024, marking the culmination of our diligent efforts and commitment to delivering a robust and efficient solution.
+</div>
 
 ![Campus Compass](https://github.com/tech-moh-logy/Campus-Compass/assets/132733865/4b831400-400e-4fc0-a383-20ee16faf47d)
 
