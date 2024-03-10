@@ -1,6 +1,7 @@
 <h1 align="center">Campus Compass</h1>
 
 <div align="center">
+    [Live Demo](https://jasminesjewelries-mohammed-design.netlify.app)
     The <b>Full-Stack CRUD Application</b> is scheduled to be uploaded by March 14th, 2024, marking the culmination of our diligent efforts and commitment to delivering a robust and efficient solution.
 </div>
 
