@@ -3,7 +3,7 @@
 [Example Live Demo of my Potential](https://jasminesjewelries-mohammed-design.netlify.app)
 
 <div align="center">
-    The <b>Full-Stack CRUD Application</b> is completed; DM through LinkedIn for more information.
+    The <b>Full-Stack CRUD Application</b> is completed; DM through LinkedIn for the source code.
 </div>
 
 <br>
