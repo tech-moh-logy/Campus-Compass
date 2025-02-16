@@ -76,6 +76,20 @@ Throughout the development process, version control is maintained using Git, a d
 
 This project was developed by MOHAMMED. 
 
-## License
+---
 
-This project is licensed under the [MOHAMMED License](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/LICENSE). For more details, see the [LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
+<sub>
+  
+  ### Credits
+  
+  Research conducted by MOHAMMED, unless otherwise specified in the respective document.
+  
+  ### License
+  
+  This project is licensed under the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md). For more details, see the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
+
+  <br>
+
+  More available on request. Contact me via [LinkedIn](https://www.linkedin.com/in/mohtech/).
+   
+</sub>
